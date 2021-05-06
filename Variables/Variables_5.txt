@@ -1,0 +1,3 @@
+The first program outputs '3'. The variable x is declared outside of the loop, therefore it can be updated by the word (which increments x by 1 three times).
+
+The second program will output an "undefined local variable" error for x since x is declared inside the loop. Its scope is therefore limited to the block.
