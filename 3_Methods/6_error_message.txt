@@ -1,0 +1,1 @@
+The error message tells us that the method 'calculate product' received only one argument when it was expecting two.
