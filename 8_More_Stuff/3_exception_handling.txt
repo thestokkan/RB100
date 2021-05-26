@@ -1,0 +1,1 @@
+Exception handling is a way of dealing with exceptions (errors) in a program such that they do not halt the execution of the program. The exception can be recorded in a log file and/or a message can be printed.

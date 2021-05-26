@@ -1,0 +1,1 @@
+ The code give the error becuase the method parameter is not preceded by '&' and the method is called with a block as an argument. If a block is to be passed as an argument, the parameter in the method definition must be '&<block_name>'.
