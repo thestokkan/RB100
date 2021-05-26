@@ -1,0 +1,1 @@
+The problem is that the array is given a string instead of an integer as index argument. It can be fixed by providing the index for 'margaret', which is 3: names[3] = 'jody'.
